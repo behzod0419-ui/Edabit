@@ -1,2 +1,2 @@
-def pos_com(num):
-    return 2 ** num
+def divisible(num):
+    return num % 100 == 0

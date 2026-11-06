@@ -1,4 +1,2 @@
-def return_negative(n):
-  if n > 0:
-    return -n
-  return n
+def football_points(wins, draws, losses):
+    return (wins * 3) + (draws * 1) + (losses * 0)

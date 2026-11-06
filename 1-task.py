@@ -1,2 +1,3 @@
-def hello():
-  return "hello edabit.com"
+def addition(a, b):
+  return a + b
+  

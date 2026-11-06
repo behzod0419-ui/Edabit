@@ -1,2 +1,2 @@
-def encore_total(songs):
-    return songs + 1
+def pos_com(num):
+  return 2 ** num

@@ -1,2 +1,2 @@
-def should_retry(failed, attempts, limit):
-  return failed and (attempts < limit)
+def squared(b):
+  return b * b

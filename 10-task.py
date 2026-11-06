@@ -1,2 +1,2 @@
-def tri_area(base, height):
-    return (base * height) / 2
+def how_many_stickers(n):
+    return 6 * (n ** 2)
